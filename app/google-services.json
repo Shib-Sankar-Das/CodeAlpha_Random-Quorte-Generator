@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045024180589",
+    "project_id": "quotespark-286e8",
+    "storage_bucket": "quotespark-286e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045024180589:android:c7c22a96a17970f26cf264",
+        "android_client_info": {
+          "package_name": "com.example.quotespark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFtPRy9JDBAb7cG9dK_Pc0LsAxUpQ1_hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045024180589:android:0df4456a302c8c356cf264",
+        "android_client_info": {
+          "package_name": "com.shivshankar.quotespark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFtPRy9JDBAb7cG9dK_Pc0LsAxUpQ1_hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

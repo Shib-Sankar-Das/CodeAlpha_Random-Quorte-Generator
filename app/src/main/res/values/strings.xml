@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuoteSpark</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="register">Register</string>
+    <string name="new_quote">New Quote</string>
+    <string name="previous">⏮️ Previous</string>
+    <string name="next">Next ⏭️</string>
+</resources>
